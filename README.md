@@ -9,6 +9,8 @@
 <a href="mailto:dudhaniayush@gmail.com"><img src="https://img.shields.io/badge/Gmail-dudhaniayush-red" alt="Gmail: dudhaniayush"></a>
 
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/zn8iyusePtgAAAAC/tenor.gif" />
+
+[![@dudhaniayush's Holopin board](https://holopin.me/dudhaniayush)](https://holopin.io/@dudhaniayush)
 <!--
 - 👨‍💻 Check out my portfolio at [here](https://sanketborade.netlify.app/)
 
