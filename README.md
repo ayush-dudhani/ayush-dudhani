@@ -78,3 +78,7 @@ Blog
 About
 Sanket1308/README.md at main · Sanket1308/Sanket1308
 -->
+  
+  [![dudhaniayush's GitHub | Languages Over Time](https://stats.quine.sh/dudhaniayush/languages-over-time?theme=dark)](https://quine.sh)
+  
+  [![dudhaniayush's GitHub | Stats](https://stats.quine.sh/dudhaniayush/github?theme=dark)](https://quine.sh)
