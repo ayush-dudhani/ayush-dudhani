@@ -9,7 +9,7 @@
 <a href="mailto:dudhaniayush@gmail.com"><img src="https://img.shields.io/badge/Gmail-dudhaniayush-red" alt="Gmail: dudhaniayush"></a>
 <a href=https://wakatime.com/@8070acdb-aa1b-4e40-813b-29e0bf7f0843><img src="https://wakatime.com/badge/user/8070acdb-aa1b-4e40-813b-29e0bf7f0843.svg"></img></a>
 
-<img style="padding-left: 0px" width="50%" align="right" alt="Github" src="https://c.tenor.com/zn8iyusePtgAAAAC/tenor.gif" />
+<img style="padding-left: 0px" width="40%" align="right" alt="Github" src="https://c.tenor.com/zn8iyusePtgAAAAC/tenor.gif" />
 
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-dudhani&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=300)
