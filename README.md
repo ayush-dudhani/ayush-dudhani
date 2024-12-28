@@ -12,7 +12,7 @@
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/zn8iyusePtgAAAAC/tenor.gif" />
 
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-dudhani&show_icons=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-dudhani&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dudhani&layout=compact)
 
