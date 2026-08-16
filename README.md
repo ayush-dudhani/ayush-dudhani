@@ -1,4 +1,3 @@
-````html
 <h1 align="center">Hey, I'm Ayush Dudhani 👋</h1>
 
 <h3 align="center">
@@ -118,4 +117,3 @@ I particularly enjoy projects where **backend engineering meets infrastructure a
 <p align="center">
   <sub>Always curious about what's happening one abstraction layer below.</sub>
 </p>
-```
