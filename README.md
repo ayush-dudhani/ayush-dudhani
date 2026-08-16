@@ -59,15 +59,20 @@ I enjoy understanding not just *how to make something work*, but how to make it 
 
 #### Cloud & DevOps
 
-`AWS` • `Docker` • `Kubernetes` • `GitLab CI/CD` • `GitHub Actions` • `Spinnaker`
+`AWS` • `Docker` • `GitLab CI/CD` • `GitHub Actions` • `Spinnaker`
 
-#### Observability
+#### Observability & Monitoring
 
-`Dynatrace` • `Prometheus` • `Grafana`
+`Dynatrace` • `Splunk`
 
-#### AI / Currently Exploring
+#### AI / Exploring
 
 `Spring AI` • `MCP` • `RAG` • `LLMs` • `Ollama`
+
+#### Currently Learning
+
+`Kubernetes` • `Distributed Systems` • `System Design`
+
 
 ---
 
